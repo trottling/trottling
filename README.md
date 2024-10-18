@@ -7,7 +7,7 @@
 ![views](https://komarev.com/ghpvc/?username=trottling&color=1060c2)
 </div>
 
-<h2 align="center">The main programming languages and frameworks I use are:</h2>
+<h2 align="center">Main programming languages and frameworks</h2>
 <br/>
 <div align="center">
   
