@@ -15,6 +15,7 @@
 ![Golang](https://img.shields.io/badge/golang-007D9C?style=for-the-badge&logo=go&logoColor=acdee8)
 ![Qt](https://img.shields.io/badge/qt-2BD781?style=for-the-badge&logo=qt&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
   
 </div>
