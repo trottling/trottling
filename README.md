@@ -1,6 +1,6 @@
-### 🇬🇧  [English version](https://github.com/trottling/AI-Task-Bot-EN)
+### 🇬🇧  [English version](README_EN.md)
 
-<h1 align="center"><img src="assets/homik.png" width="48" height="48" alt="icon" style="vertical-align: middle;" /> Привет, я Trottling 👋</h1>
+<h1 align="center"><img src="assets/homik.png" width="48" height="48" alt="icon" style="vertical-align: text-bottom;" /> Привет, я Trottling 👋</h1>
 <p align="center">
   🧠 Backend и Desktop разработчик • 🔐 Сетевые и системные тулзы • 🧪 Автоматизация • 🇷🇺 Из России
 </p>

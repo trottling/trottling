@@ -1,4 +1,4 @@
-### 🇷🇺  [Русская версия](https://github.com/trottling/AI-Task-Bot)
+### 🇷🇺  [Русская версия](README.md)
 
 <h1 align="center"><img src="assets/homik.png" width="48" height="48" alt="icon" style="vertical-align: middle;" /> Hey, I'm Trottling 👋</h1>
 <p align="center">
