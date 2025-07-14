@@ -10,7 +10,7 @@
 ## <img src="assets/chihpih.png" width="32" height="32" alt="icon" style="vertical-align: middle;" /> About Me
 
 - 💻 I write mainly in Go, I am interested in networks, low-level automation and tool development
-- 🛡️ I worked as a Junior Golang developer at CyberOk for 8 months - I wrote scanners, finalized TLS, favicon, HTTP processing and other things in zgrab3
+- 🛡️ I worked as a Junior Golang developer at CyberOk for 10 months - I wrote scanners, finalized TLS, favicon, HTTP processing and other things in zgrab3
 - ⚙️ Before that and in parallel - 2 years of automation on BAS, writing Telegram bots, bypassing protection, parsing, integrating with API
 - 🧩 I made tools on PyQt/PySide, CLI tools, web services, parsers - everything that can be launched and that brings results
 - 🛠️ I understand network protocols, I can read other people's code and fix bugs - even if no one wants to take them on
