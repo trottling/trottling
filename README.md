@@ -1,13 +1,13 @@
 ### 🇬🇧  [English version](README_EN.md)
 
-<h1 align="center"><img src="assets/homik.png" width="48" height="48" alt="icon" style="vertical-align: text-bottom;" /> Привет, я Trottling 👋</h1>
+<h1 align="center"><img src="assets/homik.png" width="38" height="38" alt="icon" style="vertical-align: text-bottom;" /> Привет, я Trottling 👋</h1>
 <p align="center">
   🧠 Backend и Desktop разработчик • 🔐 Сетевые и системные тулзы • 🧪 Автоматизация • 🇷🇺 Из России
 </p>
 
 ---
 
-## <img src="assets/chihpih.png" width="32" height="32" alt="icon" style="vertical-align: middle;" /> Немного обо мне
+## <img src="assets/chihpih.png" width="27" height="27" alt="icon" style="vertical-align: middle;" /> Немного обо мне
 
 - 💻 Пишу в основном на Go, интересуюсь сетями, низкоуровневой автоматизацией и разработкой инструментов
 - 🧩 Делал софты на PyQt/PySide, CLI-инструменты, веб-сервисы, парсеры, авторегеры — всё, что можно запустить и что приносит результат
@@ -16,7 +16,7 @@
 
 ---
 
-## <img src="assets/okak.png" width="32" height="32" alt="icon" style="vertical-align: middle;" /> Проекты
+## <img src="assets/okak.png" width="27" height="27" alt="icon" style="vertical-align: middle;" /> Проекты
 
 | Проект                                                      | Что делает                                                                 |
 |-------------------------------------------------------------|----------------------------------------------------------------------------|
@@ -29,7 +29,7 @@
 
 ---
 
-### <img src="assets/negr_v_pole.png" width="32" height="32" alt="icon" style="vertical-align: middle;" /> Опыт работы
+### <img src="assets/negr_v_pole.png" width="27" height="27" alt="icon" style="vertical-align: middle;" /> Опыт работы
 
 #### 🔷 Фриланс / pet-проекты — 2 года+
 
@@ -46,7 +46,7 @@
 
 ---
 
-## <img src="assets/oguzok.png" width="32" height="32" alt="icon" style="vertical-align: middle;" /> Технологии
+## <img src="assets/oguzok.png" width="27" height="27" alt="icon" style="vertical-align: middle;" /> Технологии
 
 ### 🔷 Языки
 
@@ -79,7 +79,7 @@
 
 ---
 
-## <img src="assets/cry.png" width="32" height="32" alt="icon" style="vertical-align: middle;" /> GitHub Статистика
+## <img src="assets/cry.png" width="27" height="27" alt="icon" style="vertical-align: middle;" /> GitHub Статистика
 
 <div align="center">
 
@@ -90,14 +90,14 @@
 
 ---
 
-## <img src="assets/alo.png" width="32" height="32" alt="icon" style="vertical-align: middle;" /> Связь
+## <img src="assets/alo.png" width="27" height="27" alt="icon" style="vertical-align: middle;" /> Связь
 
 - <img src="assets/telegram.png" width="16" height="16" alt="icon" style="vertical-align: middle;" /> Telegram: [@trottling](https://t.me/trottling)
 - <img src="assets/github.png" width="16" height="16" alt="icon" style="vertical-align: middle;" /> GitHub: [github.com/trottling](https://github.com/trottling)
 
 ---
 
-## <img src="assets/workaem.png" width="32" height="32" alt="icon" style="vertical-align: middle;" /> В поиске работы
+## <img src="assets/workaem.png" width="27" height="27" alt="icon" style="vertical-align: middle;" /> В поиске работы
 
 Рассматриваю фуллтайм позиции (бэкенд, системная разработка, автоматизация) — приоритет: **офис/гибрид**.
 
