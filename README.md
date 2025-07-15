@@ -11,10 +11,10 @@
 
 - 💻 Пишу в основном на Go, интересуюсь сетями, низкоуровневой автоматизацией и разработкой инструментов
 - 🛡️ 10 месяцев работал Junior Golang-разработчиком в CyberOk — писал сканеры, допиливал TLS, favicon, обработку HTTP и прочее в zgrab3
-- ⚙️ До этого и параллельно — 2 года автоматизации на BAS, написание Telegram-ботов, обход защиты, парсинг, интеграции с API
-- 🧩 Делал тулзы на PyQt/PySide, CLI-инструменты, веб-сервисы, парсеры — всё, что можно запустить и что приносит результат
+- ⚙️ До этого и параллельно — 2 года автоматизации на BAS и Python, написание Telegram-ботов, обход защиты, парсинг, интеграции с API
+- 🧩 Делал софты на PyQt/PySide, CLI-инструменты, веб-сервисы, парсеры — всё, что можно запустить и что приносит результат
 - 🛠️ Разбираюсь в сетевых протоколах, умею читать чужой код и править баги — даже если никто не хочет за них браться
-- 🚀 Сейчас ищу фуллтайм работу (офис/гибрид) в адекватной команде, где ценят разработку, а не бюрократию
+- 🚀 Сейчас ищу фуллтайм работу (офис/гибрид) в адекватной команде, где ценят разработку и результат, а не бюрократию
 
 ---
 
@@ -42,11 +42,11 @@
 
 ### 🧩 Фреймворки и тулзы
 
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
@@ -56,6 +56,10 @@
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
+
+### В процессе изучения:
+![N8N](https://img.shields.io/badge/n8n-0E0918.svg?style=for-the-badge&logo=n8n&logoColor=white)
+
 
 ---
 
