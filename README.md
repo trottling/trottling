@@ -92,8 +92,8 @@
 
 ## <img src="assets/alo.png" width="32" height="32" alt="icon" style="vertical-align: middle;" /> Связь
 
-- Telegram: [@trottling](https://t.me/trottling)
-- GitHub: [github.com/trottling](https://github.com/trottling)
+- <img src="assets/telegram.png" width="16" height="16" alt="icon" style="vertical-align: middle;" /> Telegram: [@trottling](https://t.me/trottling)
+- <img src="assets/github.png" width="16" height="16" alt="icon" style="vertical-align: middle;" /> GitHub: [github.com/trottling](https://github.com/trottling)
 
 ---
 
