@@ -27,11 +27,11 @@
 | [AI-Task-Bot](https://github.com/trottling/AI-Task-Bot)     | Телеграм-бот, создающий `.ics`-события по тексту пользователя              |
 | [Go-Watcher](https://github.com/trottling/Go-Watcher)       | Тулза на Go для мониторинга и блокировки подозрительной сетевой активности |
 | [Bender](https://github.com/trottling/Bender)               | GUI-сканер для уязвимостей и кривых конфигураций в Windows                 |
-| _(скоро)_ Elastic REST API                                  | REST API на Go с Elastic: сбор логов и полнотекстовый поиск               |
+| _(скоро)_ Elastic REST API                                  | REST API на Go с Elastic: сбор логов и полнотекстовый поиск                |
 
 ---
 
-## 🛠️ Технологии
+## <img src="assets/oguzok.png" width="32" height="32" alt="icon" style="vertical-align: middle;" /> Технологии
 
 ### 🔷 Языки
 
@@ -58,12 +58,13 @@
 ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
 
 ### В процессе изучения:
+
 ![N8N](https://img.shields.io/badge/n8n-0E0918.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
 
 ---
 
-## 📈 GitHub Статистика
+## <img src="assets/cry.png" width="32" height="32" alt="icon" style="vertical-align: middle;" /> GitHub Статистика
 
 <div align="center">
 
@@ -74,14 +75,14 @@
 
 ---
 
-## 📬 Связь
+## <img src="assets/alo.png" width="32" height="32" alt="icon" style="vertical-align: middle;" /> Связь
 
 - Telegram: [@trottling](https://t.me/trottling)
 - GitHub: [github.com/trottling](https://github.com/trottling)
 
 ---
 
-## 💼 В поиске работы
+## <img src="assets/workaem.png" width="32" height="32" alt="icon" style="vertical-align: middle;" /> В поиске работы
 
 Рассматриваю фуллтайм позиции (бэкенд, системная разработка, автоматизация) — приоритет: **офис/гибрид**.
 

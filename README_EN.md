@@ -11,8 +11,8 @@
 
 - 💻 I write mainly in Go, I am interested in networks, low-level automation and tool development
 - 🛡️ I worked as a Junior Golang developer at CyberOk for 10 months - I wrote scanners, finalized TLS, favicon, HTTP processing and other things in zgrab3
-- ⚙️ Before that and in parallel - 2 years of automation on BAS, writing Telegram bots, bypassing protection, parsing, integrating with API
-- 🧩 I made tools on PyQt/PySide, CLI tools, web services, parsers - everything that can be launched and that brings results
+- ⚙️ Before that and in parallel - 2 years of automation on BAS and Python, writing Telegram bots, bypassing protection, parsing, integrating with API
+- 🧩 I made soft on PyQt/PySide, CLI tools, web services, parsers - everything that can be launched and that brings results
 - 🛠️ I understand network protocols, I can read other people's code and fix bugs - even if no one wants to take them on
 - 🚀 Now I am looking for a full-time job (office/hybrid) in an adequate team that values development, not bureaucracy
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="assets/oguzok.png" width="32" height="32" alt="icon" style="vertical-align: middle;" /> Tech Stack
 
 ### 🔷 Languages
 
@@ -59,7 +59,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## <img src="assets/cry.png" width="32" height="32" alt="icon" style="vertical-align: middle;" /> GitHub Stats
 
 <div align="center">
 
@@ -70,13 +70,13 @@
 
 ---
 
-## 📬 Contact
+## <img src="assets/alo.png" width="32" height="32" alt="icon" style="vertical-align: middle;" /> Contact
 
 - Telegram: [@trottling](https://t.me/trottling)
 - GitHub: [github.com/trottling](https://github.com/trottling)
 
 ---
 
-## 💼 Open to Work
+## <img src="assets/workaem.png" width="32" height="32" alt="icon" style="vertical-align: middle;" /> Open to Work
 
 I’m currently open to full-time backend/dev positions — hybrid or office preferred.
