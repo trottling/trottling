@@ -72,7 +72,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
 
-### В процессе изучения:
+### ✏️ В процессе изучения:
 
 ![N8N](https://img.shields.io/badge/n8n-0E0918.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
