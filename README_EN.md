@@ -86,6 +86,7 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trottling&show_icons=true&theme=dark#gh-dark-mode-only)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=trottling&color=1060c2)
 
 </div>
