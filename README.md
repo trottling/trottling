@@ -29,7 +29,7 @@
 
 ---
 
-### <img src="assets/negr_v_pole.png" width="27" height="27" alt="icon" style="vertical-align: middle;" /> Опыт работы
+## <img src="assets/negr_v_pole.png" width="27" height="27" alt="icon" style="vertical-align: middle;" /> Опыт работы
 
 #### 🔷 Фриланс / pet-проекты — 2 года+
 
