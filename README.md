@@ -18,14 +18,14 @@
 
 ## <img src="assets/okak.png" width="27" height="27" alt="icon" style="vertical-align: middle;" /> Проекты
 
-| Проект                                                      | Стек                        | Что делает                                                                 |
-|-------------------------------------------------------------|-----------------------------|----------------------------------------------------------------------------|
-| [File-Finder](https://github.com/trottling/File-Finder)     | Golang                      | CLI-инструмент для поиска файлов и строк по паттерну                       |
-| [Avito-Monitor](https://github.com/trottling/Avito-Monitor) | BAS, sqlite 3               | Парсинг новых объявлений на Avito через BAS + уведомления в Telegram       |
-| [AI-Task-Bot](https://github.com/trottling/AI-Task-Bot)     | Python, aiogram 3, sqlite 3 | Телеграм-бот, создающий `.ics`-события по тексту пользователя              |
-| [Go-Watcher](https://github.com/trottling/Go-Watcher)       | Golang                      | Тулза на Go для мониторинга и блокировки подозрительной сетевой активности |
-| [Bender](https://github.com/trottling/Bender)               | Python, PyQT6               | GUI-сканер для уязвимостей и кривых конфигураций в Windows                 |
-| _(скоро)_ Elastic REST API                                  | Golang, Elastic, go-chi     | REST API на Go с Elastic: сбор логов и полнотекстовый поиск                |
+| Проект                                                        | Стек                        | Что делает                                                                 |
+|---------------------------------------------------------------|-----------------------------|----------------------------------------------------------------------------|
+| [File-Finder](https://github.com/trottling/File-Finder)       | Golang                      | CLI-инструмент для поиска файлов и строк по паттерну                       |
+| [Avito-Monitor](https://github.com/trottling/Avito-Monitor)   | BAS, sqlite 3               | Парсинг новых объявлений на Avito через BAS + уведомления в Telegram       |
+| [AI-Task-Bot](https://github.com/trottling/AI-Task-Bot)       | Python, aiogram 3, sqlite 3 | Телеграм-бот, создающий `.ics`-события по тексту пользователя              |
+| [Go-Watcher](https://github.com/trottling/Go-Watcher)         | Golang                      | Тулза на Go для мониторинга и блокировки подозрительной сетевой активности |
+| [Bender](https://github.com/trottling/Bender)                 | Python, PyQT6               | GUI-сканер для уязвимостей и кривых конфигураций в Windows                 |
+| [Logs-Collector](https://github.com/trottling/Logs-Collector) | Golang, Elastic, go-chi     | REST API на Go с Elastic: сбор логов и полнотекстовый поиск                |
 
 ---
 

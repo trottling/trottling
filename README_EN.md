@@ -18,14 +18,14 @@
 
 ## <img src="assets/okak.png" width="27" height="27" alt="icon" style="vertical-align: middle;" /> Projects
 
-| Project                                                     | What does                                                         |
-|-------------------------------------------------------------|-------------------------------------------------------------------|
-| [File-Finder](https://github.com/trottling/File-Finder)     | CLI tool for searching files and strings by pattern               |
-| [Avito-Monitor](https://github.com/trottling/Avito-Monitor) | Parsing new ads on Avito via BAS + notifications in Telegram      |
-| [AI-Task-Bot](https://github.com/trottling/AI-Task-Bot)     | Telegram bot that creates `.ics` events based on user text        |
-| [Go-Watcher](https://github.com/trottling/Go-Watcher)       | Go tool for monitoring and blocking suspicious network activity   |
-| [Bender](https://github.com/trottling/Bender)               | GUI scanner for vulnerabilities and bad configurations in Windows |
-| _(coming soon)_ Elastic REST API                            | REST API in Go with Elastic: log collection and full-text search  |
+| Project                                                       | What does                                                         |
+|---------------------------------------------------------------|-------------------------------------------------------------------|
+| [File-Finder](https://github.com/trottling/File-Finder)       | CLI tool for searching files and strings by pattern               |
+| [Avito-Monitor](https://github.com/trottling/Avito-Monitor)   | Parsing new ads on Avito via BAS + notifications in Telegram      |
+| [AI-Task-Bot](https://github.com/trottling/AI-Task-Bot)       | Telegram bot that creates `.ics` events based on user text        |
+| [Go-Watcher](https://github.com/trottling/Go-Watcher)         | Go tool for monitoring and blocking suspicious network activity   |
+| [Bender](https://github.com/trottling/Bender)                 | GUI scanner for vulnerabilities and bad configurations in Windows |
+| [Logs-Collector](https://github.com/trottling/Logs-Collector) | REST API in Go with Elastic: log collection and full-text search  |
 
 ---
 
