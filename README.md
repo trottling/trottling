@@ -2,7 +2,7 @@
 
 <h1 align="center"><img src="assets/homik.png" width="38" height="38" alt="icon" style="vertical-align: text-bottom;" /> Привет, я Trottling 👋</h1>
 <p align="center">
-  🧠 Backend и Desktop разработчик • 🔐 Сетевые и системные тулзы • 🧪 Автоматизация • 🇷🇺 Из России
+  🧠 Backend и Desktop разработчик • 🔐 Сетевые и системные тулзы • 🧪 Автоматизация
 </p>
 
 ---
