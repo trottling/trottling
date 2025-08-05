@@ -95,11 +95,3 @@
 
 - <img src="assets/telegram.png" width="16" height="16" alt="icon" style="vertical-align: middle;" /> Telegram: [@trottling](https://t.me/trottling)
 - <img src="assets/github.png" width="16" height="16" alt="icon" style="vertical-align: middle;" /> GitHub: [github.com/trottling](https://github.com/trottling)
-
----
-
-## <img src="assets/workaem.png" width="27" height="27" alt="icon" style="vertical-align: middle;" /> В поиске работы
-
-- 🧭 В активном поиске работы - junior+ / middle- Go-разработчик (backend, автоматизация).
-- 💼 Ищу фуллтайм (офис/гибрид, желательно Нижний Новгород, удалёнка — тоже рассматривается).
-- 📌 Открыт к задачам с продакшн-ответственностью, нестандартной логикой, автоматизацией и прокачкой по стеку.
