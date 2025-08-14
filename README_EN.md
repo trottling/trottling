@@ -12,7 +12,6 @@
 - 💻 I write mainly in Go, I am interested in networks, low-level automation and tool development
 - 🧩 I made software in PyQt/PySide, CLI tools, web services, parsers, creators — everything that can be launched and that brings results
 - 🛠️ I understand network protocols, I can read other people's code and fix bugs — even if no one wants to take them on
-- 🚀 Ready for full-time work (office/hybrid) in an adequate team that values development and results, not bureaucracy
 
 ---
 
@@ -77,7 +76,8 @@
 ### ✏️ In the process of studying:
 
 ![N8N](https://img.shields.io/badge/n8n-0E0918.svg?style=for-the-badge&logo=n8n&logoColor=white)
-
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -97,11 +97,3 @@
 
 - <img src="assets/telegram.png" width="16" height="16" alt="icon" style="vertical-align: middle;" /> Telegram: [@trottling](https://t.me/trottling)
 - <img src="assets/github.png" width="16" height="16" alt="icon" style="vertical-align: middle;" /> GitHub: [github.com/trottling](https://github.com/trottling)
-
----
-
-## <img src="assets/workaem.png" width="27" height="27" alt="icon" style="vertical-align: middle;" /> Looking for work
-
-Considering full-time positions (backend, systems development, automation) — priority: **office/hybrid**.
-
----
