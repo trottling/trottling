@@ -1,17 +1,14 @@
 ### 🇬🇧  [English version](README_EN.md)
 
 <h1 align="center"><img src="assets/homik.png" width="38" height="38" alt="icon" style="vertical-align: text-bottom;" /> Привет, я Trottling 👋</h1>
-<p align="center">
-  🧠 Backend и Desktop разработчик • 🔐 Сетевые и системные тулзы • 🧪 Автоматизация
-</p>
 
 ---
 
 ## <img src="assets/chihpih.png" width="27" height="27" alt="icon" style="vertical-align: middle;" /> Немного обо мне
 
-- Люблю собак
-- Люблю Jagermeister
-- Не люблю дебажить
+  🧠 Backend и Desktop разработчик 
+  🔐 Сетевые и системные тулзы
+  🧪 Автоматизация сайтов через браузер / запросы
   
 ---
 
