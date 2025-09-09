@@ -53,11 +53,6 @@
 ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white&labelColor=darkviolet)
 ![Cursor](https://img.shields.io/badge/Cursor-181818?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAABYlBMVEUAAAD////g4OB+fn7+/v79/f37+/v4+Pj39/f29vb09PTz8/Py8vLx8fHw8PDs7Ozp6eno6Ojl5eXk5OTj4+Ph4eHd3d3Y2NjR0dHPz8/Ozs7Nzc3MzMzJycnIyMjFxcXExMTDw8PCwsLBwcG8vLy6urq5ubm4uLizs7OysrKxsbGwsLCurq6srKyqqqqmpqalpaWhoaGenp6dnZ2cnJybm5uWlpaVlZWUlJSLi4uGhoaFhYWBgYF/f398fHx7e3t6enp5eXlycnJwcHBqampoaGhnZ2djY2NgYGBXV1dTU1NSUlJRUVFQUFBPT09MTExKSkpJSUlISEhHR0dGRkZDQ0M/Pz8+Pj49PT08PDw7Ozs6Ojo5OTk4ODg3Nzc2NjY1NTU0NDQyMjIxMTEvLy8uLi4qKiooKCgkJCQjIyMiIiIgICAWFhYVFRUTExMREREODg4NDQ0GBgYFBQUEBAT////bPpbVAAAAdnRSTlP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AAWKpRwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAR5JREFUKJFjLGXADphwiFMq8RC7xMXt/z+/hvNY4Ky930UkWV98UkbTcXY/l6wIU6+S2KsvEAHGUgYGBobrWxnEmJmYudj+/Pn785OhKdwoccvbrxCWcTAwMDAwWzMwMDB859Xk//KdgYGBgZX3p4kZI1zHvy9sqgo3L39l5vrynVH/Byfc8n8MzO9+mUXJM3wR+OUs8Bvhqn//mLiZ7n+XYBB6r7P7KzNC4g8jx/fXn15+YfnLosrAzIjw4L+/L37+Yfr3j+mP7BtPRlaExN+bPJcZLE4oMXBwv3q+M0wW7lxBzSvMikzSn3/yfn7Il8mP8AcDg8a/Rx+5vv/5+PtvJlogGhoee/H2i4ELZugyWDHsc8IaHwwMSOJkxDkAvotdsEhWO9IAAAAASUVORK5CYII=)
 
-### ✏️ В процессе изучения:
-
-![N8N](https://img.shields.io/badge/n8n-0E0918.svg?style=for-the-badge&logo=n8n&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ---
 
 ## <img src="assets/cry.png" width="27" height="27" alt="icon" style="vertical-align: middle;" /> GitHub Статистика
