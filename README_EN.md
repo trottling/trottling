@@ -51,14 +51,11 @@
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![BAS](https://img.shields.io/badge/bas-BF6651.svg?style=for-the-badge&logo=data:image/png;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAqKipLKioq0SoqKt8qKirfKioq3yoqKt8qKirfKioq3yoqKt8qKirfKioq3yoqKt8qKirfKioq3yoqKs8qKio/Kioq3V9fX/+MjIz/hoaG/4aGhv+Ghob/enp6/yoqKv8qKir/gICA/4aGhv+Ghob/hoaG/4yMjP9gYGD/KioqzyoqKu+MjIz/Kysr/yoqKv8qKir/Kioq/yoqKv8qKir/Kioq/yoqKv8qKir/Kioq/yoqKv8rKyv/jIyM/yoqKt8qKirvhoaG/yoqKv8qKir/Kioq/yoqKv8qKir/Kioq/yoqKv8qKir/Kioq/yoqKv8qKir/Kioq/4aGhv8qKirfKioq74aGhv8qKir/Kioq/zg4OP97e3v/bm5u/25ubv9ubm7/b29v/0JCQv8qKir/Kioq/yoqKv+Ghob/Kioq3yoqKu+Ghob/Kioq/yoqKv9BQUH/XV1d/yoqKv8qKir/Kioq/yoqKv91dXX/Ozs7/yoqKv8qKir/hoaG/yoqKt8qKirvgICA/yoqKv8qKir/QUFB/11dXf8qKir/Kioq/yoqKv8qKir/Pz8//2BgYP8qKir/Kioq/4CAgP8qKirfKioq7yoqKv8qKir/Kioq/0FBQf9dXV3/Kioq/yoqKv8qKir/LCws/319ff86Ojr/Kioq/yoqKv8qKir/Kioq3yoqKu8qKir/Kioq/yoqKv9BQUH/j4+P/25ubv9ubm7/cHBw/5eXl/9bW1v/Kioq/yoqKv8qKir/Kioq/yoqKt8qKirvenp6/yoqKv8qKir/QUFB/11dXf8qKir/Kioq/yoqKv8qKir/enp6/y0tLf8qKir/Kioq/3p6ev8qKirfKioq74aGhv8qKir/Kioq/0FBQf9dXV3/Kioq/yoqKv8qKir/Kioq/3Nzc/8uLi7/Kioq/yoqKv+Ghob/Kioq3yoqKu+Ghob/Kioq/yoqKv9BQUH/j4+P/25ubv9ubm7/bm5u/3Nzc/9jY2P/Kioq/yoqKv8qKir/hoaG/yoqKt8qKirvhoaG/yoqKv8qKir/Kioq/yoqKv8qKir/Kioq/yoqKv8qKir/Kioq/yoqKv8qKir/Kioq/4aGhv8qKirfKioq74yMjP8rKyv/Kioq/yoqKv8qKir/Kioq/yoqKv8qKir/Kioq/yoqKv8qKir/Kioq/ysrK/+MjIz/Kioq3yoqKuFfX1//jIyM/4aGhv+Ghob/hoaG/3p6ev8qKir/Kioq/4CAgP+Ghob/hoaG/4aGhv+MjIz/YGBg/yoqKtEqKipVKioq4SoqKu8qKirvKioq7yoqKu8qKirvKioq7yoqKu8qKirvKioq7yoqKu8qKirvKioq7yoqKt0qKipLgAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAEAAA==)
 
 ### 🧩 Frameworks and tools
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -72,12 +69,6 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white&labelColor=darkviolet)
 ![Cursor](https://img.shields.io/badge/Cursor-181818?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAABYlBMVEUAAAD////g4OB+fn7+/v79/f37+/v4+Pj39/f29vb09PTz8/Py8vLx8fHw8PDs7Ozp6eno6Ojl5eXk5OTj4+Ph4eHd3d3Y2NjR0dHPz8/Ozs7Nzc3MzMzJycnIyMjFxcXExMTDw8PCwsLBwcG8vLy6urq5ubm4uLizs7OysrKxsbGwsLCurq6srKyqqqqmpqalpaWhoaGenp6dnZ2cnJybm5uWlpaVlZWUlJSLi4uGhoaFhYWBgYF/f398fHx7e3t6enp5eXlycnJwcHBqampoaGhnZ2djY2NgYGBXV1dTU1NSUlJRUVFQUFBPT09MTExKSkpJSUlISEhHR0dGRkZDQ0M/Pz8+Pj49PT08PDw7Ozs6Ojo5OTk4ODg3Nzc2NjY1NTU0NDQyMjIxMTEvLy8uLi4qKiooKCgkJCQjIyMiIiIgICAWFhYVFRUTExMREREODg4NDQ0GBgYFBQUEBAT////bPpbVAAAAdnRSTlP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AAWKpRwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAR5JREFUKJFjLGXADphwiFMq8RC7xMXt/z+/hvNY4Ky930UkWV98UkbTcXY/l6wIU6+S2KsvEAHGUgYGBobrWxnEmJmYudj+/Pn785OhKdwoccvbrxCWcTAwMDAwWzMwMDB859Xk//KdgYGBgZX3p4kZI1zHvy9sqgo3L39l5vrynVH/Byfc8n8MzO9+mUXJM3wR+OUs8Bvhqn//mLiZ7n+XYBB6r7P7KzNC4g8jx/fXn15+YfnLosrAzIjw4L+/L37+Yfr3j+mP7BtPRlaExN+bPJcZLE4oMXBwv3q+M0wW7lxBzSvMikzSn3/yfn7Il8mP8AcDg8a/Rx+5vv/5+PtvJlogGhoee/H2i4ELZugyWDHsc8IaHwwMSOJkxDkAvotdsEhWO9IAAAAASUVORK5CYII=)
-
-### ✏️ In the process of studying:
-
-![N8N](https://img.shields.io/badge/n8n-0E0918.svg?style=for-the-badge&logo=n8n&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
